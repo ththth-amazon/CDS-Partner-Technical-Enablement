@@ -2,11 +2,6 @@
 ## What is Communication Developer Services(CDS)?
 Communication Developer Services (**CDS**) is the new portfolio name that refers to three AWS services (Pinpoint, SES, and Chime SDK) coming together to form the foundation of communication cloud services. The capabilities of these cloud services are used by enterprises to reach their customers to improve communication engagement. Use cases like identity verification through One-Time-Password, Interactive Voice Response, appointment reminders, and notifications are growing as enterprises expand adoption of digital engagement with their customers and citizens. CDS is a set of stand-alone services or SDKs and APIs that allow developers to embed customer communications directly into their applications, which reduce the need for specialized developers and a one size fits all approach to scaled customer engagement. CDS is part of the CPaaS market category and our ability to build demand generation was enhanced with the recent inclusion of CDS in the Gartner CPaaS Market Category and Customer Guide, with Gartner highlighting SMS Application to Person message sending, two factor authentication and IVR, as foundational services within CPaaS. These foundational capabilities align with the capabilities provided by Pinpoint, SES and Chime SDK
 
-## How does the Partner Enablement Program work?
-- Lauren/Morgan to Plug in from Brochure
-- How to Become a Partner
-	- Lauren/Morgan to Plug in from Brochure
-
 ## Use Cases
 - [Common Pinpoint Use Cases ](https://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html) 
 	- **Omni-Channel Messaging** - Leverage email, SMS, push, in-app notifications, voice, or custom channels to deliver communications via API or a console based experience
