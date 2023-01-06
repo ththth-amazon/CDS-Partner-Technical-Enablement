@@ -81,15 +81,15 @@ You can use the Amazon Chime SDK to build real-time media applications that ca
 				- [Connect to 3rd party services with a REST API](https://github.com/aws-samples/communication-developer-services-reference-architectures#connect-or-facebook-whatsapp-twitter-anything-as-a-pinpoint-campaign-channel). Pinpoint passes 50 endpoints at a time to Lambda which can be used to interact with services such as WhatsApp, Twitter, Slack, Amazon Connect, etc.
 
 ## CDS Resources
-##### Pinpoint
+#### Pinpoint
 * [Amazon Pinpoint Home](https://aws.amazon.com/pinpoint/)
 * [Amazon Pinpoint Documentation](https://docs.aws.amazon.com/pinpoint/)
 * [Solution Repository](https://github.com/aws-samples/digital-user-engagement-reference-architectures)
 * [Pinpoint Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a/en-US/getting-started)
-##### SES
+#### SES
 * [Amazon Simple Email Service Home](https://aws.amazon.com/ses/)
 * [Amazon Simple Email Service Documentation](https://docs.aws.amazon.com/ses/index.html)
-##### Chime
+#### Chime
 * [Amazon Chime SDK Home](https://aws.amazon.com/chime/chime-sdk/)
 * [Amazon Chime SKD Documentation](https://docs.aws.amazon.com/chime-sdk/index.html)
 * https://codesandbox.io/s/amazon-cds-meeting-sandbox-3mxuzz
