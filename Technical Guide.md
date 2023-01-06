@@ -25,17 +25,29 @@ Communication Developer Services (**CDS**) is the new portfolio name that refers
 		- Appointment confirmations 
 		- Receive SMS reminders and useful information about your upcoming visit 
 		- Meet your healthcare provider via audio/video
-	-   **Food Ordering/Food Tech:**
+	-   **Local Ordering and Delivery:**
 		- Order food by calling the restaurant
 		- Restaurant agentless order taking
 			- Once the order is confirmed, customer receives email confirmation
 			- As the customer heads to pickup, the customer gets SMS notifications about the order progress until delivery
 			- Finally once the order is complete, the customer receives an email with the final invoice and order summary
-	-   **Contact Center/Customer Engagement**:
+	-   **Contact Center/Customer Engagement:**
 		- Incoming/Outgoing call
 		- SMS notifications on progress of request
 		- Email confirmation &/or Follow Ups
 		- Automated Ticket Booking
+	-   **Travel Interruption:**
+		- \1-800 call to Contact Center
+ 		- SMS confirmation of use identity and selection of refund options
+ 		- Confirmation of modified itinerary via email
+	-	**Bank Fraud Alert:**
+ 		- Automated call to alert regarding suspicious activity on bank account
+ 		- Authentication and confirmation/rejection of suspect transactions via SMS
+ 		- Email confirmation regarding removal of temporary freeze or dispatch of new card via email
+	-	**Edutech:**
+ 		- Video classes
+ 		- In-class engagement questions and polls sent
+		- Follow up / Email engagement	
 	
 # CDS Services
 
