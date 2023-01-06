@@ -92,5 +92,5 @@ You can use the Amazon Chime SDK to build real-time media applications that ca
 #### Chime
 * [Amazon Chime SDK Home](https://aws.amazon.com/chime/chime-sdk/)
 * [Amazon Chime SKD Documentation](https://docs.aws.amazon.com/chime-sdk/index.html)
-* https://codesandbox.io/s/amazon-cds-meeting-sandbox-3mxuzz
-* https://demo.chime.aws/
+* [Live Sandbox](https://codesandbox.io/s/amazon-cds-meeting-sandbox-3mxuzz)
+* [Live Demo](https://demo.chime.aws/)
