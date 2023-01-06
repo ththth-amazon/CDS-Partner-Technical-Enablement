@@ -37,7 +37,7 @@ Communication Developer Services (**CDS**) is the new portfolio name that refers
 		- Email confirmation &/or Follow Ups
 		- Automated Ticket Booking
 	-   **Travel Interruption:**
-		- \1-800 call to Contact Center
+		- 1-800 call to Contact Center
  		- SMS confirmation of use identity and selection of refund options
  		- Confirmation of modified itinerary via email
 	-	**Bank Fraud Alert:**
