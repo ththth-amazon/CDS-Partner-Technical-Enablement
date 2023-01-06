@@ -87,10 +87,10 @@ Pinpoint
 * [Solution Repository](https://github.com/aws-samples/digital-user-engagement-reference-architectures)
 * [Pinpoint Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/070a93a2-3373-4736-8af0-f7a08c9eb08a/en-US/getting-started)
 SES
-- [Amazon Simple Email Service Home](https://aws.amazon.com/ses/)
-- [Amazon Simple Email Service Documentation](https://docs.aws.amazon.com/ses/index.html)
+* [Amazon Simple Email Service Home](https://aws.amazon.com/ses/)
+* [Amazon Simple Email Service Documentation](https://docs.aws.amazon.com/ses/index.html)
 Chime
-- [Amazon Chime SDK Home](https://aws.amazon.com/chime/chime-sdk/)
-- [Amazon Chime SKD Documentation](https://docs.aws.amazon.com/chime-sdk/index.html)
-- https://codesandbox.io/s/amazon-cds-meeting-sandbox-3mxuzz
-- https://demo.chime.aws/
+* [Amazon Chime SDK Home](https://aws.amazon.com/chime/chime-sdk/)
+* [Amazon Chime SKD Documentation](https://docs.aws.amazon.com/chime-sdk/index.html)
+* https://codesandbox.io/s/amazon-cds-meeting-sandbox-3mxuzz
+* https://demo.chime.aws/
