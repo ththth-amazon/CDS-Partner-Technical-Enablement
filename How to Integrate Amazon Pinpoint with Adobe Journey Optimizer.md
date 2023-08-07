@@ -14,9 +14,7 @@ How to Set Up the Integration Between Amazon Pinpoint and Adobe Journey Optimize
             * https://docs.aws.amazon.com/pinpoint/latest/userguide/channels-sms-originating-identities-choosing.html
     * Lambda
         * Create a new Lambda function that can authorize the token based API call being made from Adobe Journey Optimizer. Give it a name like "APIAuthorization-Adobe"
-            * https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/APIAuthorization-Adobe?tab=code
         * Create a Lambda that will call Amazon Pinpoint to deliver the SMS message. Give it a name like "Adobe-SMS-Send"
-            * https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/Adobe-SMS-Send?tab=configure
                 * Pinpoint expects phone numbers to be in e.164 format. You can use a library such as Google's common Java, C++, and JavaScript library for parsing, formatting, and validating international phone numbers to ensure that your calls are sending the message in the expected e.164 format.
                     * https://github.com/google/libphonenumber
     * API Gateway
