@@ -22,6 +22,7 @@ Communication Developer Services (**CDS**) is the new portfolio name that refers
 	- **Out-of-band Incident Response Communications -** Have a known good communication channel when working on sensitive issues
 	- **Secure Collaboration -** Provide security while working remotely and meeting compliance retention requirements
 	- **Granular User Access controls -** Control who, what, and how your users interact within and outside your organization
+	- **Encrypted Comms at the Edge -** Deployable on AWS Snowball devices for local connectivity in the field.
 
 - ## Common Combined Use Cases by Industry  
 	- **Telehealth**:
